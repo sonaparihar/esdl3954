@@ -8,4 +8,8 @@ void main()
    {
       return a+b;
    }
+    int sub(int p,int q)
+   {
+      return a-b;
+   }
 }
